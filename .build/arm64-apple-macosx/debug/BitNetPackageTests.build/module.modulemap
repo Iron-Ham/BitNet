@@ -1,0 +1,4 @@
+module BitNetPackageTests {
+    header "/Users/zer0/Developer/GitHub/BitNet/.build/arm64-apple-macosx/debug/BitNetPackageTests.build/BitNetPackageTests-Swift.h"
+    requires objc
+}

@@ -1,4 +1,0 @@
-module BitNet [system] {
-    header "../include/ggml-bitnet.h"
-    export *
-}

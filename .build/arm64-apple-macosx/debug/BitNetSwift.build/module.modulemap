@@ -1,0 +1,4 @@
+module BitNetSwift {
+    header "/Users/zer0/Developer/GitHub/BitNet/.build/arm64-apple-macosx/debug/BitNetSwift.build/BitNetSwift-Swift.h"
+    requires objc
+}

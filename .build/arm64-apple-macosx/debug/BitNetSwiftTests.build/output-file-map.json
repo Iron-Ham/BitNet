@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/zer0/Developer/GitHub/BitNet/.build/arm64-apple-macosx/debug/BitNetSwiftTests.build/master.swiftdeps"
+  },
+  "/Users/zer0/Developer/GitHub/BitNet/Tests/BitNetTests/BitNetTests.swift": {
+    "dependencies": "/Users/zer0/Developer/GitHub/BitNet/.build/arm64-apple-macosx/debug/BitNetSwiftTests.build/BitNetTests.d",
+    "object": "/Users/zer0/Developer/GitHub/BitNet/.build/arm64-apple-macosx/debug/BitNetSwiftTests.build/BitNetTests.swift.o",
+    "swiftmodule": "/Users/zer0/Developer/GitHub/BitNet/.build/arm64-apple-macosx/debug/BitNetSwiftTests.build/BitNetTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/zer0/Developer/GitHub/BitNet/.build/arm64-apple-macosx/debug/BitNetSwiftTests.build/BitNetTests.swiftdeps"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/zer0/Developer/GitHub/BitNet/.build/arm64-apple-macosx/debug/BitNetSwift.build/master.swiftdeps"
+  },
+  "/Users/zer0/Developer/GitHub/BitNet/Sources/BitNetSwift/BitNet.swift": {
+    "dependencies": "/Users/zer0/Developer/GitHub/BitNet/.build/arm64-apple-macosx/debug/BitNetSwift.build/BitNet.d",
+    "object": "/Users/zer0/Developer/GitHub/BitNet/.build/arm64-apple-macosx/debug/BitNetSwift.build/BitNet.swift.o",
+    "swiftmodule": "/Users/zer0/Developer/GitHub/BitNet/.build/arm64-apple-macosx/debug/BitNetSwift.build/BitNet~partial.swiftmodule",
+    "swift-dependencies": "/Users/zer0/Developer/GitHub/BitNet/.build/arm64-apple-macosx/debug/BitNetSwift.build/BitNet.swiftdeps"
+  }
+}
