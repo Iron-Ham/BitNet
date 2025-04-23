@@ -1,10 +1,13 @@
 set(GGML_HEADERS_BITNET ../include/ggml-bitnet.h)
 set(GGML_SOURCES_BITNET ggml-bitnet-mad.cpp ggml-bitnet-lut.cpp)
 
-include_directories(3rdparty/llama.cpp/ggml/include)
-
 add_library(bitnet STATIC ${GGML_SOURCES_BITNET})
-target_include_directories(bitnet PUBLIC ../include)
+target_include_directories(bitnet
+    PUBLIC
+        ../include
+        ${CMAKE_SOURCE_DIR}/3rdparty/llama.cpp/ggml/include
+        ${CMAKE_SOURCE_DIR}/3rdparty/llama.cpp/ggml/src
+)
 
 set_target_properties(bitnet PROPERTIES PUBLIC_HEADER ../include/ggml-bitnet.h)
 
